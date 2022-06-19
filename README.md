@@ -1,8 +1,12 @@
 # PacMen
 
-1. When "Add PacMan" button is clicked, a new pacman appears on the screen.
-2. When "Start Game" button is clicked, the pacman or pacmen created start to move across the screen.
+ When "Add PacMan" button is clicked, a new pacman appears on the screen. When "Start Game" button is clicked, the pacman or pacmen created start to move across the screen.
 
+1. Roadmap of future improvements: 
+
+
+
+2. License information:
 
 # MIT License
 
