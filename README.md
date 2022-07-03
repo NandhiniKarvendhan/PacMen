@@ -8,7 +8,7 @@
 
 2. License information:
 
-# MIT License
+MIT License
 
 Copyright (c) 2020 John Williams
 
