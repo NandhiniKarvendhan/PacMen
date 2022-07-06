@@ -6,11 +6,21 @@ DOM. In webpage when "Add PacMan" button is clicked, a new pacman
 appears on the screen. When "Start Game" button is clicked, the pacman
 or pacmen created start to move across the screen.
 
-1. Roadmap of future improvements:
+## How to run
 
-   Changing pacmen face when the direction.
+1. Download or clone this repository.
 
-2. License information:
+2. Open index.html file in your browser.
+
+3. By clicking "Add PacMan" button you can create as many pacmen as you like in the screen.
+
+4. By clicking "Start Game" button the created pacmen started to move across the screen.
+
+## Roadmap of future improvements:
+
+Changing pacmen face when the direction.
+
+## License information:
 
 MIT License
 
