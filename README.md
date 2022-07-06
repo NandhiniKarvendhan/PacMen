@@ -18,7 +18,7 @@ or pacmen created start to move across the screen.
 
 ## Roadmap of future improvements:
 
-Changing pacmen face when the direction.
+Changing the pacmen face when pacmen hits the edge of the screen.
 
 ## License information:
 
