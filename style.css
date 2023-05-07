@@ -14,8 +14,8 @@ body {
   border: solid 5px rgb(246, 137, 2);
 }
 #game {
-  background-color: rgb(245, 174, 174);
-  border-top: dashed 2px rgb(246, 137, 2);
+  /* background-color: rgb(245, 174, 174); */
+  border-top: dashed 2px rgb(245, 174, 174);
   width: 100%;
   height: 82%;
   margin-top: 20px;
