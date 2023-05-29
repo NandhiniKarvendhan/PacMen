@@ -6,7 +6,7 @@ DOM. In webpage when "Add PacMan" button is clicked, a new pacman
 appears on the screen. When "Start Game" button is clicked, the pacman
 or pacmen created start to move across the screen.
 
-[Demo](https://nandhinikarvendhan.github.io/PacMen/)
+## [Demo](https://nandhinikarvendhan.github.io/PacMen/)
 
 ## How to run
 
