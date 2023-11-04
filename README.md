@@ -30,6 +30,7 @@ Changing the pacmen face when pacmen hits the edge of the screen.
 ## License information:
 
 MIT License
+
 Copyright (c) 2023 Nandhini K
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
