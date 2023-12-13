@@ -19,6 +19,7 @@ or pacmen created start to move across the screen.
 4. By clicking "Start Game" button the created pacmen started to move across the screen.
 
 ## Technologies
+
 1. HTML
 2. CSS
 3. JavaScript
